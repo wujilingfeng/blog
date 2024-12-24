@@ -1,4 +1,4 @@
-baseURL = 'https://jihulab.com/wujilingfeng/blog'
+baseURL = 'https://wujilingfeng.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-m10c'
