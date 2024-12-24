@@ -1,4 +1,7 @@
-baseURL = 'https://wujilingfeng.github.io/blog/'
+#baseURL = 'https://wujilingfeng.github.io/blog/'
+#baseURL = '\'
+relativeURLs = true
+
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-m10c'
