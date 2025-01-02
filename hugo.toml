@@ -30,7 +30,7 @@ theme = 'hugo-theme-m10c'
 
 [params]
     author = "libo"
-    description = "dfsdfsdfd"
+    description = "微分几何"
     avatar = "img.jpg"
     menu_item_separator = " - "
     [[params.social]]
