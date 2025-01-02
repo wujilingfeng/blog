@@ -36,4 +36,4 @@ theme = 'hugo-theme-m10c'
     [[params.social]]
         icon = "brand-github"
         name = "Github"
-        url = "https://github.com/gohugoio"
+        url = "https://github.com/wujilingfeng"
